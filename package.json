@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  },
+  "name": "yafney",
+  "description": "Yafney",
+  "version": "1.0.0",
+  "main": "yafney.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TFBosoN/Yafney.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot",
+    "yafney"
+  ],
+  "author": "TFBosoN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TFBosoN/Yafney/issues"
+  },
+  "homepage": "https://github.com/TFBosoN/Yafney#readme"
+}
